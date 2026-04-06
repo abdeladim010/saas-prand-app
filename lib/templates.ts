@@ -269,6 +269,36 @@ DO NOT change colors, DO NOT change lighting, DO NOT change style,
 --seed 777
 --style clean-consistent-wellness-v1`,
   },
+ {
+    id: "lifestyle-5",
+    title: "Outdoor Adventure",
+    description: "Natural outdoor setting for active lifestyle products",
+    category: "lifestyle",
+    categoryIcon: "🌿",
+    image: "/images/smoothie-glass-prompt-perfume-product-hero-shot-luxury-ai.webp",
+    price: 2.99,
+    prompt: `Create image a vibrant healthy smoothie lifestyle scene,
+
+product: smoothie glass with banana + mango (yellow) + greens,
+
+STRICT palette:
+green [#4CAF50] + yellow [#F4D03F] dominant,
+
+environment: bright clean kitchen or outdoor table, controlled colors,
+
+lighting: soft natural daylight, fixed exposure, no overexposure,
+
+style: clean commercial lifestyle, realistic, NOT cinematic or cartoon,
+
+camera: 35mm lens, slight dynamic feel but controlled composition,
+
+focus: freshness + healthy energy,
+
+DO NOT change colors, DO NOT change lighting, DO NOT change style,
+
+--seed 777
+--style clean-consistent-wellness-v1`,
+  },
 
   // Close-up / Detail Shot Templates
   {
