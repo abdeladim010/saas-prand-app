@@ -443,6 +443,41 @@ add #000000 #fcfcfc no other colors allowed,
 --seed 505
 --style futuristic-tech-ad-v1`,
   },
+{
+    id: "closeup-5",
+    title: "Label Focus",
+    description: "Sharp focus on product label and branding details",
+    category: "closeup",
+    categoryIcon: "🔍",
+    image: "/images/best-smartwatch-tech-advertisement-product-photo-ads image-.webp",
+    price: 2.99,
+    prompt: `Create a dynamic advertising image of a smartwatch,
+
+scene: watch thme 9:45 coler #fcfcfc #000000 ,
+
+effects: glowing red pulse waves, orange light rings,
+
+composition: centered with radiating energy lines,
+
+camera: macro + 50mm hybrid look, sharp product focus,
+
+lighting: dramatic contrast with glowing accents,
+
+color palette: ONLY red, black, orange,
+
+background: deep black with subtle tech grid,
+
+style: futuristic fitness tech advertisement,
+
+ADD TEXT in image: "POWER YOUR TIME",
+
+text style: bold clean font, glowing red/orange,
+
+add #000000 #fcfcfc no other colors allowed,
+
+--seed 505
+--style futuristic-tech-ad-v1`,
+  },
 
   // Background Variations Templates
   {
@@ -524,6 +559,31 @@ no text, no distractions, focus only on product,
   },
   {
     id: "background-4",
+    title: "Color Block",
+    description: "Bold color blocking for striking visual impact",
+    category: "background",
+    categoryIcon: "🔄",
+    image: "/images/prompt-image-wireless-headphones-dark-moody-brand-ad.webp",
+    price: 2.99,
+    prompt: `Create image a premium product hero shot of over-ear [wireless headphones] with premium finish,
+
+floating mid-air, slightly rotated for depth,
+
+studio photography, ultra sharp focus, 85mm lens, f/2.8 depth of field,
+
+lighting: moody lighting with purple and blue glow reflections, soft highlights,
+
+background: rich purple gradient blending into deep blue with subtle ambient light aura,
+
+style: immersive luxury audio brand aesthetic, modern and emotional,
+
+no text, no distractions, focus only on product,
+
+--seed 777
+--style clean-premium-ecommerce-v1`,
+  },
+    {
+    id: "background-5",
     title: "Color Block",
     description: "Bold color blocking for striking visual impact",
     category: "background",
