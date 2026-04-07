@@ -13,19 +13,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/prand-ready-prompt-AI-generated-image-product.webp',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/prand-ready-prompt-AI-generated-image-product.webp',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/prand-ready-prompt-AI-generated-image-product.webp',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/prand-ready-prompt-AI-generated-image-product.webp',
   },
 }
 

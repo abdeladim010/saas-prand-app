@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from "react"
 import { Header } from "@/components/header"
+import Link from "next/link"
 import { CategoryTabs } from "@/components/category-tabs"
 import { TemplateGrid } from "@/components/template-grid"
 import { FooterSections } from "@/components/footer-sections"
@@ -55,7 +56,36 @@ export default function HomePage() {
         <TemplateGrid templates={filteredTemplates} />
       </main>
 
-      {/* Footer Sections */}
+      {/* Pricing Preview */}
+      <section className="border-t border-border/40 px-4 py-12">
+        <div className="container mx-auto max-w-4xl text-center">
+          <h2 className="text-2xl font-semibold mb-3">Pricing</h2>
+          <p className="text-muted-foreground mb-6">Choose a package for consistent AI product images. For the full form, visit Pricing to contact us.</p>
+
+          <div className="grid gap-4 md:grid-cols-3 mb-6">
+            <div className="rounded-2xl border border-border bg-secondary/10 p-4">
+              <div className="text-2xl font-bold">$29</div>
+              <div className="text-sm text-muted-foreground">Starter — 20 images</div>
+            </div>
+            <div className="rounded-2xl border border-border bg-secondary/10 p-4">
+              <div className="text-2xl font-bold">$59</div>
+              <div className="text-sm text-muted-foreground">Growth — 40 images</div>
+            </div>
+            <div className="rounded-2xl border border-border bg-secondary/10 p-4">
+              <div className="text-2xl font-bold">$129</div>
+              <div className="text-sm text-muted-foreground">Complete — 60 images + custom prompts</div>
+            </div>
+          </div>
+
+          <Link
+            href="/pricing"
+            className="inline-block rounded-xl bg-foreground px-6 py-2 text-sm font-medium text-background transition-colors hover:opacity-90"
+          >
+            Open pricing form / Contact
+          </Link>
+        </div>
+      </section>
+
       <FooterSections />
 
       {/* Footer */}
