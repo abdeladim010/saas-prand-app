@@ -449,34 +449,34 @@ add #000000 #fcfcfc no other colors allowed,
     description: "Sharp focus on product label and branding details",
     category: "closeup",
     categoryIcon: "🔍",
-    image: "/images/best-smartwatch-tech-advertisement-product-photo-ads image-.webp",
+    image: "/images/clavi-Image-pc-prand-ai-headphones-dark-moody-brand.webp",
     price: 2.99,
-    prompt: `Create a dynamic advertising image of a smartwatch,
+    prompt: `Create a high-energy advertising image of a [gaming clavi ] ,
 
-scene: watch thme 9:45 coler #fcfcfc #000000 ,
+scene:   aggressively across a clavi with motion blur trails,
 
-effects: glowing red pulse waves, orange light rings,
+effects: glowing red light streaks, sparks, dynamic movement,
 
-composition: centered with radiating energy lines,
+composition: diagonal action composition, strong perspective,
 
-camera: macro + 50mm hybrid look, sharp product focus,
+camera: 35mm lens, sharp focus on clavi, motion blur around edges,
 
-lighting: dramatic contrast with glowing accents,
+lighting: dramatic contrast lighting with neon red and orange highlights,
 
-color palette: ONLY red, black, orange,
+color palette: ONLY red [#FF0000], black [#000000], orange [#FF6A00],
 
-background: deep black with subtle tech grid,
+background: dark black with abstract speed lines,
 
-style: futuristic fitness tech advertisement,
+style: aggressive esports advertisement, modern and bold,
 
-ADD TEXT in image: "POWER YOUR TIME",
+ADD TEXT in image: "PAY NOW",
 
-text style: bold clean font, glowing red/orange,
+text style: bold futuristic font, glowing red/orange,
 
-add #000000 #fcfcfc no other colors allowed,
+no other colors allowed,
 
---seed 505
---style futuristic-tech-ad-v1`,
+--seed 101
+--style dynamic-esports-ad-v1`,
   },
 
   // Background Variations Templates
@@ -588,9 +588,9 @@ no text, no distractions, focus only on product,
     description: "Bold color blocking for striking visual impact",
     category: "background",
     categoryIcon: "🔄",
-    image: "/images/prompt-image-wireless-headphones-dark-moody-brand-ad.webp",
+    image: "/images/image-pc-prand-ai-headphones-dark-moody-brand.webp",
     price: 2.99,
-    prompt: `Create image a premium product hero shot of over-ear [wireless headphones] with premium finish,
+    prompt: `Create image a premium product hero shot of computer is open for a short while and a  is flying off the side with premium finish,
 
 floating mid-air, slightly rotated for depth,
 
