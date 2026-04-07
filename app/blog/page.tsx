@@ -45,9 +45,12 @@ export default function BlogPage() {
             <article key={idx} className="rounded-2xl border border-border bg-secondary/20 p-6">
               <h3 className="font-semibold mb-2 line-clamp-2">{post.title}</h3>
               <p className="text-sm text-muted-foreground mb-4">{post.description}</p>
-              <span className="text-sm font-medium text-foreground/70 hover:text-foreground cursor-pointer">
+              <Link
+                href="/blog/why-your-ai-product-images"
+                className="text-sm font-medium text-foreground/70 hover:text-foreground"
+              >
                 Read more &rarr;
-              </span>
+              </Link>
             </article>
           ))}
         </div>
