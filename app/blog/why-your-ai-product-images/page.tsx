@@ -37,7 +37,7 @@ export default function ArticlePage() {
           </div>
 
           <Image
-            src="/images/fashion-store-whose-clothing-never-looked-wearable-in-ai-photos.webp"
+            src="/images/ai-streetwear-hoodie-bad-product-image-example.webp"
             alt="Fashion store whose clothing never looked wearable in AI photos"
             width={1200}
             height={700}
@@ -108,6 +108,14 @@ export default function ArticlePage() {
             <p className="text-muted-foreground">AI image tools update constantly. What worked perfectly in February may look noticeably different in June — even with the exact same prompt. Midjourney alone released multiple major versions in 2024, each producing visually distinct outputs.</p>
           </section>
 
+           <Image
+            src="/images/bad-ai-product-image-streetwear-hoodie-distorted-fabric-low-quality.webp"
+            alt="Fashion store whose clothing never looked wearable in AI photos"
+            width={1200}
+            height={700}
+            className="rounded-xl mb-6 object-cover"
+          />
+          
           <section id="brand-damage" className="mb-6">
             <h3 className="text-lg font-semibold mb-2">3. How Inconsistent Images Hurt Your Brand and Sales</h3>
             <p className="text-muted-foreground mb-2">This isn't just an aesthetics issue. Inconsistent AI product images directly impact your revenue.</p>
@@ -122,7 +130,7 @@ export default function ArticlePage() {
           </section>
           
           <Image
-            src="/images/fashion-store-whose-clothing-never-looked-wearable-in-ai-photos.webp"
+            src="/images/high-quality-ai-streetwear-hoodie-flat-lay-realistic-fabric-clean-background.webp"
             alt="Fashion store whose clothing never looked wearable in AI photos"
             width={1200}
             height={700}
@@ -132,7 +140,14 @@ export default function ArticlePage() {
           <section id="science" className="mb-6">
             <h3 className="text-lg font-semibold mb-2">4. The Science Behind AI Image Generation</h3>
             <p className="text-muted-foreground mb-2">To truly fix the AI image inconsistency problem, it helps to understand a little about how these tools actually work.</p>
-
+          
+          <Image
+            src="/images/ai-product-image-before-after-comparison-hoodie-quality-fix.webp"
+            alt="Fashion store whose clothing never looked wearable in AI photos"
+            width={1200}
+            height={700}
+            className="rounded-xl mb-6 object-cover"
+          />
             <h4 className="font-medium">How Diffusion Models Work (Simply Explained)</h4>
             <p className="text-muted-foreground mb-2">Most modern AI image tools — Midjourney, DALL·E 3, Stable Diffusion, Adobe Firefly — use a technique called diffusion modeling. Here's the simple version:</p>
             <ol className="list-decimal ml-5 text-muted-foreground mb-2">
@@ -170,6 +185,13 @@ export default function ArticlePage() {
             <p className="text-muted-foreground">Line up all images side by side and confirm they belong in the same catalog. If something feels off, regenerate using the master template.</p>
           </section>
 
+          <Image
+            src="/images/bad-ai-earbuds-product-image-cheap-lighting-cluttered-background.webp"
+            alt="Fashion store whose clothing never looked wearable in AI photos"
+            width={1200}
+            height={700}
+            className="rounded-xl mb-6 object-cover"
+          />
           <section id="prompt-templates" className="mb-6">
             <h3 className="text-lg font-semibold mb-2">6. The Power of Prompt Templates for E-commerce</h3>
             <p className="text-muted-foreground mb-2">Prompt templates are the single most effective tool for fixing AI image inconsistency. Think of them as your brand's visual stylesheet for AI.</p>
@@ -182,6 +204,14 @@ export default function ArticlePage() {
             <h3 className="text-lg font-semibold mb-2">7. Best Tools to Maintain AI Product Images Consistency</h3>
             <p className="text-muted-foreground mb-2">Not all AI image tools handle consistency equally. Top options include Midjourney v6, Adobe Firefly, Stable Diffusion (ComfyUI/Automatic1111), DALL·E 3, Canva AI, and Pebblely. Prompt management tools like Notion, PromptBase, and Airtable help organize templates.</p>
           </section>
+
+          <Image
+            src="/images/ai-earbuds-product-image-before-after-premium-vs-cheap.webp"
+            alt="Fashion store whose clothing never looked wearable in AI photos"
+            width={1200}
+            height={700}
+            className="rounded-xl mb-6 object-cover"
+          />
 
           <section id="case-study" className="mb-6">
             <h3 className="text-lg font-semibold mb-2">8. Case Study: How One Shopify Store Went From Chaos to Consistent</h3>
@@ -198,6 +228,14 @@ export default function ArticlePage() {
               <li>Batch generate 8–10 variations and pick the best 2–3.</li>
             </ul>
           </section>
+
+           <Image
+            src="/images/premium-ai-earbuds-product-image-floating-dark-background-luxury-lighting.webp"
+            alt="Fashion store whose clothing never looked wearable in AI photos"
+            width={1200}
+            height={700}
+            className="rounded-xl mb-6 object-cover"
+          />
 
           <section id="faq" className="mb-6">
             <h3 className="text-lg font-semibold mb-2">10. FAQ: Your Top Questions Answered</h3>
