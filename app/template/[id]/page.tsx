@@ -180,7 +180,7 @@ export default function TemplatePage({ params }: TemplatePageProps) {
                     <div>
                       <p className="font-semibold text-emerald-600">Prompt Unlocked!</p>
                       <p className="text-sm text-muted-foreground">
-                        Copy and use in Midjourney, DALL-E, or any AI tool
+                        Copy and use in AI One-time payment $2.99 PayPal - ab.bentabka@gmail.com
                       </p>
                     </div>
                   </div>
