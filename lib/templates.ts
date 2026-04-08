@@ -275,7 +275,7 @@ DO NOT change colors, DO NOT change lighting, DO NOT change style,
     description: "Natural outdoor setting for active lifestyle products",
     category: "lifestyle",
     categoryIcon: "🌿",
-    image: "/images/premium-ai-earbuds-product-image-floating-dark-background-luxury-lighting.webp",
+    image: "/images/comparison-hoodie-quality-fix.webp",
     price: 2.99,
     prompt: `Create image a vibrant healthy smoothie lifestyle scene,
 
