@@ -186,27 +186,18 @@ DO NOT change style, DO NOT change lighting, DO NOT introduce new colors,
     categoryIcon: "🌿",
     image: "/images/fashion-store-whose-clothing-never-looked-wearable-in-ai-photos.webp",
     price: 2.99,
-    prompt: `Create image a lifestyle fitness scene after workout,
+    prompt: `Create a high-fashion, editorial-quality shot of an oversized streetwear hoodie
 
-subject holding a reusable water bottle with lemon + mint (green + yellow tones),
-
-STRICT brand palette:
-green [#4CAF50], yellow [#F4D03F] only,
-
-environment: outdoor park with green dominance, subtle yellow sunlight,
-
-lighting: consistent soft golden natural light, not too warm, not too dark,
-
-style: realistic clean lifestyle, NOT cinematic, NOT dramatic,
-
-camera: 85mm lens, subject sharp, background slightly blurred,
-
-composition: centered, stable framing,
-
-avoid randomness, avoid style switching, avoid color inconsistency,
-
---seed 777
---style clean-consistent-wellness-v1`,
+Fabric/Material: washed black cotton fleece texture
+Shot Style: flat lay on raw concrete surface
+Angle: overhead 90-degree top-down shot
+Lighting: natural, diffused overcast lighting
+Fabric Appearance: perfectly smooth fabric with natural folds
+Aesthetic: urban minimal, clean design, high fashion editorial
+Model/Mannequin: no model or mannequin—focus on the hoodie
+Resolution: 8K sharp detail
+Negative Prompts: --no deformed wrinkles distortion, --no unrealistic folds, --no distracting backgrounds
+--seed 55821`,
   },
   {
     id: "lifestyle-3",
@@ -487,7 +478,7 @@ no other colors allowed,
     category: "background",
     categoryIcon: "🔄",
     image: "/images/premium-sneakers-white-background-product-shot.webp",
-    price: 10,
+    price: 2.99,
     isTrending: true,
     prompt: `Create image a premium product hero shot of high-end running shoes with modern design,
 
